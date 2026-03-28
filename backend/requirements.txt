@@ -1,0 +1,11 @@
+fastapi
+uvicorn
+browser-use
+playwright
+google-generativeai
+langchain-google-genai
+supabase
+pymupdf
+python-docx
+python-multipart
+python-dotenv
